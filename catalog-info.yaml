@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: pitlane-bfabian
+  annotations:
+    github.com/project-slug: bfabian1991/pitlane-bfabian
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
